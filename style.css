@@ -1,0 +1,20 @@
+#peafowl {
+    height: 150px;
+    width: 180px
+}
+#panda {
+    height: 150px;
+    width:150px
+}
+#cat {
+    height:150px;
+    width:150px
+}
+#puppy {
+    height: 150px;
+    width:150px;
+}
+#returnBanner {
+    font-size: 25;
+    color: crimson;
+}
